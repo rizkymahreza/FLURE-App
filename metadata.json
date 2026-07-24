@@ -1,0 +1,6 @@
+{
+  "name": "FLURE — Progressive Trust Social Network",
+  "description": "Privacy-first social networking application featuring Progressive Trust, direct messaging, live camera photo sharing, ephemeral voice notes, content feed, and admin moderation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
